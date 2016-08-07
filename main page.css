@@ -1,0 +1,172 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  color:#262626;
+  background-color: #c9c9c9;
+}
+header {
+  padding: 20px 1px;
+}
+header .row, footer .row {
+  display: flex;
+  align-items: center;
+}
+a:hover{
+  text-decoration: none;
+}
+.dropdown-toggle{
+  cursor:pointer;
+  background-color: #c9c9c9;
+  color:#262626;
+
+}
+.dropdown-menu{
+  background-color: lightgray;
+  
+}
+.item{
+  border-bottom: 1px solid gray;
+}
+.contact{
+  color:#262626;
+}
+header h1 {
+  font-weight: 700;
+  margin: 0;
+}
+header nav {
+  display: flex;
+  justify-content: flex-end;
+}
+header p {
+  padding: 0 20px;
+  margin: 0;
+}
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url('http://wallpapercave.com/wp/Xc4ZUA0.png');
+  background-size: cover;
+  color: #ffffff;
+  height: 500px;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+.jumbotron h2 {
+  font-size: 60px;
+  font-weight: 700;
+  margin: 0;
+  color: #fff;
+}
+.jumbotron h3 {
+  margin: 0 0 20px;
+  color: #fff;
+}
+.AroundTheWeb{
+  text-align:center;
+  font-weight: 300;
+  font-weight: bolder;
+  font-size: 32px;
+  color:#262626;
+  margin-bottom: 10px;
+}
+.PitchHeader{
+  text-align:center;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: darkgray;
+  border-radius: 25px;
+  border: 15px solid #b9b9b9;
+  margin-bottom: 20px;
+}
+
+.AllMHeader{
+  text-align:center;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: darkgray;
+  border-radius: 25px;
+  border: 15px solid #b9b9b9;
+  margin-bottom: 20px;
+}
+.TNDHeader{
+  text-align:center;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: darkgray;
+  border-radius: 25px;
+  border: 15px solid #b9b9b9;
+  margin-bottom: 20px;
+  padding-bottom: 40px;
+}
+.btn.btn-primary1 {
+  margin-top:10px;
+  border-radius: 2px;
+  font-size:24px;
+  border: 0px;
+  color: black;
+  text-shadow: none;
+  background-color: darkgray;
+}
+
+.TNDHeader .btn.btn-primary1{
+  padding-bottom: 10px;
+}
+.TNDHeader .row{
+    padding-left: 150px;
+}
+.TNDHeader p{
+  position:absolute;
+  float:center;
+}
+.btn.btn-primary1:hover {
+  color: black;
+  background-color: #999999;
+}
+.container{
+  padding-bottom: 15px;
+}
+section .row img {
+  margin-bottom:30px;
+  width: 70%;
+  height: 70%;
+  border-radius:25px;
+}
+section .row{
+  font-weight: bold;
+}
+.col-md-6 {
+  margin: 0 0 30px;
+}
+.btn.btn-primary {
+  border-radius: 2px;
+  border: 2px;
+  color: black;
+  text-shadow: none;
+  background-color: #c9c9c9;
+}
+.btn.btn-primary:hover {
+  background-color: #999999;
+}
+.btn-secondary {
+  background-color: #E8DFE0;
+  color: #ffffff;
+  margin: 0 0 30px;
+}
+
+
+footer {
+  font-size: 12px;
+  padding: 20px 0;
+}
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+footer ul {
+  list-style: none;
+}
+footer li img {
+  width: 32px;
+  height: 32px;
+  color:gray;
+}

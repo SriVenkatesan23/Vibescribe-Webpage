@@ -1,0 +1,70 @@
+body h1{
+	text-align: left;
+	color:#d9d9d9;
+	padding-left: 20px;
+	padding-top: 20px;
+}
+body{
+
+
+	background-image: url(http://wallpapercave.com/wp/Xc4ZUA0.png);
+	font-family: "Trebuchet MS";
+	color: white;
+	text-align: left;
+	padding-left:20px;
+
+	
+}
+
+.message{
+	color:#d9d9d9;
+	padding-top: 20px;
+	font-size: 24px;
+	padding-left: 20px;
+	padding-right: 500px;
+
+}
+
+.container {
+  
+  margin-top: 20px;
+  max-width: 50%;
+  float:left;
+
+}
+
+.btn-primary{
+	color: gray;
+}
+
+.button-group {
+  margin-bottom: 20px;
+
+}
+
+.counter {
+  display: inline;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 10px;
+  color: #d9d9d9;
+}
+
+.posts {
+  clear: both;
+  list-style: none;
+  padding-left: 0;
+
+}
+
+.posts li {
+  background-color: #d9d9d9;
+  border: 1px solid #d8d8d8;
+  padding-top: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  word-wrap: break-word;
+  min-height: 42px;
+}

@@ -1,0 +1,5 @@
+
+Add a button I can click to upload a new review I've written. It asks me for Title of Review, link to album cover, and link to review pdf.
+
+**Update**
+Make it three text fields. You can't leave tab if prompt is open.
